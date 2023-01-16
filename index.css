@@ -46,7 +46,7 @@
     gap: 20px;
 }
 
-/* phot acceuil */
+/* photo acceuil diaporama*/
 
 .main {
     width: 80%;
@@ -75,10 +75,11 @@
 .flechegauche, .flechedroite{
     position: absolute;
     top: 50%;
-    font-size: 20px;
+    font-size: 30px;
     cursor: pointer;
 }
 
 .flechedroite{
     right: 0;
 }
+
